@@ -4,6 +4,11 @@ Models used:
 3. Ball tracking (TrackNetv3) 🥎
 4. Court keypoints detection (ResNet50) 🏟️
 
+Data collected: 📜
+1. Players position, velocity (Vx and Vy) and acceleration (Ax and Ay)
+2. Players distance covered 
+3. Players pose keypoints
+4. Ball position, velocity and acceleration 
 
 # Padel Analytics
 ![padel analytics](https://github.com/user-attachments/assets/f66e6141-6ad7-48ca-b363-f539af0782ca)
