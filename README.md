@@ -1,3 +1,10 @@
+Models used:
+1. Players object tracking (yolo + bytesort) 🏃
+2. Players keypoints detection (yolo-pose) 🏃
+3. Ball tracking (TrackNetv3) 🥎
+4. Court keypoints detection (ResNet50) 🏟️
+
+
 # Padel Analytics
 ![padel analytics](https://github.com/user-attachments/assets/f66e6141-6ad7-48ca-b363-f539af0782ca)
 
